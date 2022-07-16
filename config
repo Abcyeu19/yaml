@@ -1,0 +1,13 @@
+app:
+  account: 书客73437213369
+  app_version: 2.9.290
+  default_key: zG2nSeEfSHfvTCHy5LCcqtBbQehKNLXn
+  device_token: ciweimao_client
+  host_url: https://app.hbooker.com
+  login_token: f64ce56957e7d9e02be3a5fb78837e17
+  user_agent: Android com.kuangxiangciweimao.novel
+  user_name: 865187867 
+extra:
+  cache_no_paid: false
+  coroutines: 3
+  cpic: false
